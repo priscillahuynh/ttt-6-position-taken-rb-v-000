@@ -11,4 +11,5 @@ end# code your #position_taken? method here!
     else
     taken = true
   end
+  end
 end
