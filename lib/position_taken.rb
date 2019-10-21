@@ -10,6 +10,6 @@ end# code your #position_taken? method here!
     taken = false
     else
     taken = true
-  end
+    end
   end
 end
